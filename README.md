@@ -59,3 +59,4 @@
 - other nice stuff
   - [playwright](https://playwright.dev/) for browser automation (also, [browserstack](https://www.browserstack.com/) is nice)
   - [noVNC](https://novnc.com/info.html) for VNC connections in your browser
+  - [JSON Schema -> HTML Form](https://github.com/json-editor/json-editor) is awesome and saves you a ton of time
